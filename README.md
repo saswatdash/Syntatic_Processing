@@ -3,8 +3,11 @@ BeHealthy requires a **predictive model** which can **identify disease and treat
 
 ## Table of Contents
 Problem Statement
+
 Technologies Used
+
 Acknowledgements
+
 Contacts
 
 ## Problem Statement
@@ -27,11 +30,17 @@ Approach:
 
 ## Technologies Used
 Language - Python 3
+
 Pandas - Dataframe, Content storage and processing
+
 Regular Expression (re) - Identify the textual pattern
+
 SpaCy - NLP, POS tag check
+
 Warnings - To avoid warning messages
+
 Sklearn_CRFsuite - Model building and Evaluation
+
 
 ## Acknowledgements
 This project is part of a case study from Upgrad for building a NLP model used to identify and categorize various entities such as diseases, symptoms, drugs, procedures, and healthcare providers.
